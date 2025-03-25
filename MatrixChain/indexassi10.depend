@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734421554 source:g:\indexassi10\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<climits>
+

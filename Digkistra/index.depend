@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1731341237 source:c:\users\hp\onedrive\desktop\problem solving\index\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<limits>
+	<cfloat>
+
